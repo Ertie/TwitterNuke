@@ -1,0 +1,12 @@
+{
+  "name": "twitterbot",
+  "version": "0.0.0",
+  "description": "TwitterBot",
+  "main": "Main.mjs",
+  "author": {
+    "name": "Ertie"
+  },
+  "dependencies": {
+    "twitter-lite": "^0.14.0"
+  }
+}
