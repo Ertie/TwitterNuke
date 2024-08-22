@@ -19,5 +19,4 @@ Remember to fill the corresponding tokens at Token.json. You'll find these at th
 
 -----------------------------------------------------
 
-*If you have any other inquiries, feel free to contact me on Discord at __Ertie#1858__!*\
-*Or at [Twitter](http://twitter.com/Ertie_exe)!!*
+*[LinkedIn](https://www.linkedin.com/in/ertie-exe/)!!*
